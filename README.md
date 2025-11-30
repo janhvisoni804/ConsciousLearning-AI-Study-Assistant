@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thumbnail.png" width="650"/>
+  <img src="Thumbnail.png" width="650"/>
 </p>
 
 # ConsciousLearning — AI Study Assistant 🎓🤖
@@ -24,7 +24,7 @@ It generates study plans, quizzes, explanations, and smart summaries — with op
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="architecture.png" width="750"/>
+  <img src="Architecture.png" width="750"/>
 </p>
 
 ---
