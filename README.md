@@ -24,7 +24,7 @@ It generates study plans, quizzes, explanations, and smart summaries — with op
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="Architecture Design.png" width="750"/>
+  <img src="Architectural Design.png" width="750"/>
 </p>
 
 ---
