@@ -1,2 +1,44 @@
-# ConsciousLearning-AI-Study-Assistant
-ConsciousLearning — AI Study Assistant is an intelligent educational companion powered by Gemini AI. It helps students plan their study routine, understand complex topics, generate quizzes, and summarize notes — all in one place!
+<p align="center">
+  <img src="thumbnail.png" width="650"/>
+</p>
+
+# ConsciousLearning — AI Study Assistant 🎓🤖
+
+ConsciousLearning is an intelligent **AI-based study companion** powered by **Google Gemini**, designed to boost student productivity.  
+It generates study plans, quizzes, explanations, and smart summaries — with optional **voice output** for interactive learning!
+
+---
+
+## 🚀 Key Features
+
+✔ Personalized Study Plan  
+✔ Quiz Generator for exam practice  
+✔ Topic Explanation in simple language  
+✔ Notes Summarizer for quick revision  
+✔ Voice Output using gTTS  
+✔ Works on Mobile via Google Colab  
+✔ Designed for students of all streams  
+
+---
+
+## 🧠 System Architecture
+
+<p align="center">
+  <img src="architecture.png" width="750"/>
+</p>
+
+---
+
+## 🛠 Technologies Used
+- Gemini 2.5 Flash
+- Python
+- Google Colab
+- gTTS (Voice Output)
+
+---
+
+## 💻 How to Run
+
+1️⃣ Install requirements in Google Colab  
+```python
+!pip install -q --upgrade google-generativeai gTTS
