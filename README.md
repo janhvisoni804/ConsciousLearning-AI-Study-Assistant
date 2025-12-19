@@ -4,6 +4,13 @@
 
 # ConsciousLearning — AI Study Assistant 🎓🤖
 
+👩‍💻 **Author:** Janhvi Soni  
+🎓 **Capstone Project:** Agentic AI Intensive Program  
+
+⚠️ **Usage Notice:**  
+This project is shared for learning and portfolio purposes.  
+If you use, or reference this project, please give proper credit to the author.
+
 ConsciousLearning is an intelligent **AI-based study companion** powered by **Google Gemini**, designed to boost student productivity.  
 It generates study plans, quizzes, explanations, and smart summaries — with optional **voice output** for interactive learning!
 
